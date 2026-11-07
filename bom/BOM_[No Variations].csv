@@ -1,0 +1,8 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,"2 POS TERMINAL BLOCK, SCREW TYPE, 5.00","Terminal Block Header 2-Position Top Screw 0.200"" (5.08mm) PC-Pins",J1,On Shore Technology OSTTC022162,0.58,1
+,"BSS84,215",MOSFET P-CH 50V 130MA SOT-23,Q?,"Nexperia BSS84,215",0.24,1
+,RR1220P-133-D,13kΩ ±0.5% 0.1W 1/10W Chip Resistor 0805 (2012 Metric) Thin Film,Rbias,Susumu RR1220P-133-D,0.1,1
+,CRCW08051M20FKEA,,Rsense,Rohm MCR10EZPF1204,0.0598,1
+,TL431BIDBZR,"Adjustable Precision Shunt Regulator, 34 ppm / degC, 100 mA, -40 to 85 degC, 3-pin SOT-23 (DBZ), Green (RoHS & no Sb/Br)",shuntref,Texas Instruments (TI) TL431BIDBZR,,1
+,TestPoint_Pad,,TP?,,,1
+,OPA192ID,"Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Low Input Bias Current Op Amp with E-trim, 4.5 to 36 V, -40 to 125 degC, 8-Pin SOIC (D), Green (RoHS & no Sb/Br), Tube",U?,Texas Instruments (TI) OPA192ID,,1
